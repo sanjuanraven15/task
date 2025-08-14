@@ -1,0 +1,151 @@
+Line 1: Invalid coordinates (0, 0) - device_id,lat,lon,timestamp
+Line 42: Invalid timestamp (not-a-timestamp) - van007,14.682743,120.71595,not-a-timestamp
+Line 61: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 74: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 82: Invalid timestamp (not-a-timestamp) - van007,15.723629,120.737589,not-a-timestamp
+Line 84: Invalid timestamp (not-a-timestamp) - van007,16.068442,120.66563,not-a-timestamp
+Line 107: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 117: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 137: Invalid timestamp (not-a-timestamp) - van007,14.910641,120.907262,not-a-timestamp
+Line 140: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 150: Invalid timestamp (not-a-timestamp) - van007,14.644521,120.821656,not-a-timestamp
+Line 153: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 159: Invalid timestamp (not-a-timestamp) - van007,14.15002,121.018518,not-a-timestamp
+Line 196: Invalid timestamp (not-a-timestamp) - van007,14.772391,120.467444,not-a-timestamp
+Line 233: Invalid timestamp (not-a-timestamp) - van007,13.768779,121.057061,not-a-timestamp
+Line 247: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 248: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 253: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 288: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 335: Invalid timestamp (not-a-timestamp) - van007,14.766693,120.483287,not-a-timestamp
+Line 352: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 362: Invalid timestamp (not-a-timestamp) - van007,14.703882,120.657275,not-a-timestamp
+Line 431: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 435: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 437: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 460: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 461: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 466: Invalid timestamp (not-a-timestamp) - van007,14.190025,121.014496,not-a-timestamp
+Line 467: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 471: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 476: Invalid timestamp (not-a-timestamp) - van007,14.79625,120.401067,not-a-timestamp
+Line 486: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 510: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 535: Invalid timestamp (not-a-timestamp) - van007,14.496902,120.983516,not-a-timestamp
+Line 545: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 577: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 594: Invalid timestamp (not-a-timestamp) - van007,14.725848,120.59655,not-a-timestamp
+Line 597: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 647: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 680: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 708: Invalid timestamp (not-a-timestamp) - van007,15.79981,120.721714,not-a-timestamp
+Line 723: Invalid timestamp (not-a-timestamp) - van007,15.427824,120.799319,not-a-timestamp
+Line 791: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 809: Invalid timestamp (not-a-timestamp) - van007,14.016507,121.032063,not-a-timestamp
+Line 830: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 831: Invalid timestamp (not-a-timestamp) - van007,14.771362,120.470183,not-a-timestamp
+Line 852: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 876: Invalid timestamp (not-a-timestamp) - van007,14.708028,120.645549,not-a-timestamp
+Line 878: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 931: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 937: Invalid timestamp (not-a-timestamp) - van007,14.778376,120.450848,not-a-timestamp
+Line 946: Invalid timestamp (not-a-timestamp) - van007,14.343478,120.999067,not-a-timestamp
+Line 972: Invalid timestamp (not-a-timestamp) - van007,14.055753,121.028056,not-a-timestamp
+Line 987: Invalid timestamp (not-a-timestamp) - van007,14.23416,121.010014,not-a-timestamp
+Line 1006: Invalid timestamp (not-a-timestamp) - van007,14.455155,120.987775,not-a-timestamp
+Line 1010: Invalid timestamp (not-a-timestamp) - van007,14.207511,121.012813,not-a-timestamp
+Line 1015: Invalid timestamp (not-a-timestamp) - van007,14.472717,120.985948,not-a-timestamp
+Line 1023: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1033: Invalid timestamp (not-a-timestamp) - van007,16.180976,120.642138,not-a-timestamp
+Line 1055: Invalid timestamp (not-a-timestamp) - van007,15.300877,120.825763,not-a-timestamp
+Line 1060: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1068: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1078: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1124: Invalid timestamp (not-a-timestamp) - van007,13.927345,121.041111,not-a-timestamp
+Line 1129: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1147: Invalid timestamp (not-a-timestamp) - van007,16.304261,120.616388,not-a-timestamp
+Line 1156: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1166: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1182: Invalid timestamp (not-a-timestamp) - van007,14.950603,120.898886,not-a-timestamp
+Line 1188: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1223: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1224: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1253: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1255: Invalid timestamp (not-a-timestamp) - van007,14.591528,120.968689,not-a-timestamp
+Line 1263: Invalid timestamp (not-a-timestamp) - van007,14.1716,121.016404,not-a-timestamp
+Line 1276: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1327: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1328: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1335: Invalid timestamp (not-a-timestamp) - van007,14.776923,120.454961,not-a-timestamp
+Line 1341: Invalid timestamp (not-a-timestamp) - van007,16.077448,120.663731,not-a-timestamp
+Line 1354: Invalid timestamp (not-a-timestamp) - van007,15.621948,120.758809,not-a-timestamp
+Line 1355: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1362: Invalid timestamp (not-a-timestamp) - van007,14.427691,120.990506,not-a-timestamp
+Line 1381: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1407: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1434: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1468: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1503: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1532: Invalid timestamp (not-a-timestamp) - van007,15.507626,120.782654,not-a-timestamp
+Line 1595: Invalid timestamp (not-a-timestamp) - van007,14.740531,120.555771,not-a-timestamp
+Line 1689: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1716: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1735: Invalid timestamp (not-a-timestamp) - van007,16.267984,120.624009,not-a-timestamp
+Line 1746: Invalid timestamp (not-a-timestamp) - van007,14.127499,121.020832,not-a-timestamp
+Line 1765: Invalid timestamp (not-a-timestamp) - van007,14.590478,120.971441,not-a-timestamp
+Line 1801: Invalid timestamp (not-a-timestamp) - van007,15.868752,120.707263,not-a-timestamp
+Line 1811: Invalid timestamp (not-a-timestamp) - van007,14.801755,120.929867,not-a-timestamp
+Line 1831: Invalid timestamp (not-a-timestamp) - van007,15.865188,120.70812,not-a-timestamp
+Line 1843: Invalid timestamp (not-a-timestamp) - van007,15.391585,120.806928,not-a-timestamp
+Line 1854: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1880: Invalid timestamp (not-a-timestamp) - van007,15.473204,120.789803,not-a-timestamp
+Line 1889: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1910: Invalid timestamp (not-a-timestamp) - van007,15.656476,120.751547,not-a-timestamp
+Line 1921: Invalid timestamp (not-a-timestamp) - van007,15.921411,120.696382,not-a-timestamp
+Line 1934: Invalid timestamp (not-a-timestamp) - van007,14.700823,120.665543,not-a-timestamp
+Line 1938: Invalid timestamp (not-a-timestamp) - van007,14.805456,120.929163,not-a-timestamp
+Line 1950: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 1977: Invalid timestamp (not-a-timestamp) - van007,15.500422,120.784132,not-a-timestamp
+Line 2030: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2051: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2074: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2087: Invalid timestamp (not-a-timestamp) - van007,15.407914,120.803532,not-a-timestamp
+Line 2104: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2149: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2156: Invalid timestamp (not-a-timestamp) - van007,14.792288,120.412081,not-a-timestamp
+Line 2159: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2163: Invalid timestamp (not-a-timestamp) - van007,14.455155,120.987775,not-a-timestamp
+Line 2192: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2218: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2226: Invalid timestamp (not-a-timestamp) - van007,14.595007,120.958976,not-a-timestamp
+Line 2232: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2251: Invalid timestamp (not-a-timestamp) - van007,15.992228,120.681611,not-a-timestamp
+Line 2265: Invalid timestamp (not-a-timestamp) - van007,13.850575,121.0488,not-a-timestamp
+Line 2274: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2316: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2317: Invalid timestamp (not-a-timestamp) - van007,13.950653,121.038681,not-a-timestamp
+Line 2324: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2336: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2338: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2354: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2372: Invalid timestamp (not-a-timestamp) - van007,14.831115,120.304437,not-a-timestamp
+Line 2390: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2472: Invalid timestamp (not-a-timestamp) - van007,14.659754,120.779461,not-a-timestamp
+Line 2568: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2632: Invalid timestamp (not-a-timestamp) - van007,14.784021,120.434878,not-a-timestamp
+Line 2653: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2673: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2698: Invalid timestamp (not-a-timestamp) - van007,14.220793,121.011451,not-a-timestamp
+Line 2751: Invalid timestamp (not-a-timestamp) - van007,14.796058,120.401816,not-a-timestamp
+Line 2804: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2808: Invalid timestamp (not-a-timestamp) - van007,15.683689,120.745893,not-a-timestamp
+Line 2827: Invalid timestamp (not-a-timestamp) - van007,14.783037,120.43762,not-a-timestamp
+Line 2840: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2858: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2869: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2875: Invalid timestamp (not-a-timestamp) - van007,13.83224,121.050592,not-a-timestamp
+Line 2900: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 2953: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
+Line 3046: Invalid timestamp (not-a-timestamp) - van007,14.430991,120.990225,not-a-timestamp
+Line 3090: Invalid timestamp (not-a-timestamp) - van007,15.520449,120.779915,not-a-timestamp
+Line 3147: Invalid coordinates (999, 999) - van007,999.0,999.0,2025-05-12T15:32:58.726864
